@@ -58,10 +58,3 @@ sudoku-solver/
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-Made with ❤️ using React and D3.js
-
