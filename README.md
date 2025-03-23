@@ -9,8 +9,6 @@ This is an interactive Sudoku Solver built using **React** and **D3.js**. It all
 - Input numbers manually for custom puzzles
 - Visual representation using D3.js
 
-## Demo
-[Insert Link if Deployed]
 
 ## Installation
 
